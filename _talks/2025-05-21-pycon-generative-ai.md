@@ -1,7 +1,7 @@
 ---
 title: "Does Generative AI know statistics?"
 collection: talks
-type: "Talk"
+type: conference
 permalink: /talks/2025-05-21-pycon-generative-ai
 venue: "PyCon USA"
 date: 2025-05-21

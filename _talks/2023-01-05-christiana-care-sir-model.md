@@ -1,5 +1,5 @@
 ---
-title: "Solving the two population SIR model to project COVID-19 wave"
+title: "iREACH: Solving the two population SIR model to project COVID-19 wave"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/2023-01-05-christiana-care-sir-model
