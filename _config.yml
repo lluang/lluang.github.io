@@ -26,7 +26,7 @@ author:
   avatar           : "Luangkesorn_Louis_741-0721_202504.png"
   name             : "Louis Luangkesorn"
   pronouns         : "he/him/his"  
-  bio              : "Lead Data Scientist at Highmark Health. People Analytics, Machine Learning, Operations Research, Generative AI"
+  bio              : "Lead Data Scientist at Highmark Health. Advance Operational Planner at American Red Cross. People Analytics, Machine Learning, Operations Research, Generative AI"
   location         : "Pittsburgh, PA"
   employer         : "Highmark Health"
   uri              : # URL
@@ -39,9 +39,9 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6148-0015"
-  semantic         : "https://www.semanticscholar.org/author/K.-L.-Luangkesorn/8534840"
+  semantic         : #"https://www.semanticscholar.org/author/K.-L.-Luangkesorn/8534840"
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kiatikun+luangkesorn"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=kiatikun+luangkesorn"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL

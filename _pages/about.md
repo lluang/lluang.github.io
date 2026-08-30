@@ -10,9 +10,9 @@ redirect_from:
 # About me
 I am a Lead Data Scientist at Highmark Health and an educator with a background in Industrial Engineering, Operations Research, and Decision Sciences. My professional work spans the development of predictive models, machine learning systems, and generative AI applications to support healthcare operations, provider relations, and business transformation. 
 
-Previously, I served as a Visiting Assistant Professor and Assistant Professor in the Department of Industrial Engineering at the University of Pittsburgh. Over my academic career, I have supervised over 100 industry-sponsored capstone projects and conducted research in simulation modeling, healthcare capacity, and disaster response logistics.
+Previously, I was an Assistant Professor in the Department of Industrial Engineering at the University of Pittsburgh and an Operations Researcer at the RAND Corporation. Over my academic career, I have supervised over 100 industry-sponsored capstone projects and conducted research in simulation modeling, healthcare capacity, and disaster response logistics.
 
-Beyond my corporate and academic work, I am an active American Red Cross Disaster Services volunteer, serving in capacities such as National Planner, Government Liaison, and Disaster Action Team Leader to develop predictive resource models for natural disaster response.
+Beyond my corporate and academic work, I am an active American Red Cross Disaster Services volunteer, serving in capacities such as Advance Operational Planner, Government Liaison, and Disaster Action Team Leader developing models and methods as well as being a part of disaster response operations.
 
 ## Research & Professional Interests
 * **Generative AI & Machine Learning:** Evaluating capabilities, limitations, and deployment of LLMs and generative systems in enterprise settings.

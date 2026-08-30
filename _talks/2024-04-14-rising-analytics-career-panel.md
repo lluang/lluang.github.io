@@ -1,7 +1,7 @@
 ---
 title: "INFORMS Analytics 2024 Rising Analytics Career Panel"
 collection: talks 
-category: panels
+Type: "Panels"
 permalink: /talks/2024-04-14-rising-analytics-career-panel
 excerpt: "Career development panel at the INFORMS Analytics Conference."
 date: 2024-04-14
