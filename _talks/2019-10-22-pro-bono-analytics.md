@@ -1,7 +1,7 @@
 ---
 title: "INFORMS 2019 Pro Bono Analytics – Providing Analytics Support to Nonprofit Organizations"
 collection: talks
-category: panels
+Type: "panels"
 permalink: /talks/2019-10-22-pro-bono-analytics
 excerpt: "Panel on leveraging analytics expertise for social good and supporting nonprofit organizations."
 date: 2019-10-22

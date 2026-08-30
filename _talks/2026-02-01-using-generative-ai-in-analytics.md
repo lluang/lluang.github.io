@@ -1,7 +1,7 @@
 ---
 title: "INFORMS Analytics 2026 Workshop Using Generative AI in Analytics: Demonstration, Pitfalls, and Practices"
 collection: talks
-category: tutorial
+type: "Tutorial"
 permalink: /talks/2026-02-01-using-generative-ai-in-analytics
 excerpt: "Demonstration and discussion of generative AI workflows, common pitfalls, and best practices presented for INFORMS."
 date: 2026-02-01

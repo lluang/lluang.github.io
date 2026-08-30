@@ -1,7 +1,7 @@
 ---
 title: "INFORMS 2021 Evaluating Specialist Staffing for Telestroke Consult Support for Regional Hospital Emergency Departments"
 collection: talks
-category: conferences
+Type: "conferences"
 permalink: /talks/2021-10-25-evaluating-specialist-staffing-telestroke
 excerpt: "Operations research modeling of telestroke staffing levels to support emergency department consults."
 date: 2021-10-25
