@@ -23,9 +23,9 @@ repository               : "lluang/lluang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Luangkesorn_Louis_741-0721_202504.png"
   name             : "Louis Luangkesorn"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him/his"  
   bio              : "Lead Data Scientist at Highmark Health. People Analytics, Machine Learning, Operations Research, Generative AI"
   location         : "Pittsburgh, PA"
   employer         : "Highmark Health"
