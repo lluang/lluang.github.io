@@ -24,9 +24,9 @@ repository               : "lluang/lluang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sidebar Name"
+  name             : "Louis Luangkesorn"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Lead Data Scientist at Highmark Health. People Analytics, Machine Learning, Operations Research, Generative AI"
   location         : "Pittsburgh, PA"
   employer         : "Highmark Health"
   uri              : # URL

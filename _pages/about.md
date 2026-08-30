@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 layout: about
 title: "About Me"
 permalink: /
