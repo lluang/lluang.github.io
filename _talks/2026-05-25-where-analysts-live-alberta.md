@@ -1,7 +1,7 @@
 ---
 title: "Where Should the Analysts Live: Organizing Analytics Within the Enterprise (University of Alberta)"
 collection: talks
-category: invited talks
+category: "Invited talks"
 permalink: /talks/2026-05-25-where-analysts-live-alberta
 excerpt: "This talk focuses on common management structures—centralized, decentralized, and matrix organizations—and how they impact the success of analytics projects."
 date: 2026-05-25

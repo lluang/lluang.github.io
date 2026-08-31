@@ -1,7 +1,7 @@
 ---
 title: "iREACH: Solving the two population SIR model to project COVID-19 wave"
 collection: talks
-type: "Invited Talk"
+type: "Invited talks"
 permalink: /talks/2023-01-05-christiana-care-sir-model
 venue: "ChristianaCare Institute for Research in Equity and Community Health (iREACH)/Delaware-CTR"
 date: 2023-01-05

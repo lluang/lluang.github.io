@@ -1,7 +1,7 @@
 ---
 title: "Information During a Disaster: The Development of Advanced Operational Planning Tools and Model(CMU)"
 collection: talks
-category: invited talks
+category: "Invited talks"
 permalink: /talks/2024-04-05-information-during-disaster-cmu
 excerpt: "Guest lecture on disaster analytics and decision support tools at Carnegie Mellon University Heinz College."
 date: 2024-04-05
