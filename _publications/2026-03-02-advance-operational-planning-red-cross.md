@@ -1,7 +1,8 @@
 ---
 title: "Improving Response Through Advance Operational Planning and Academic Collaboration"
+collection: publications
+category: manuscripts
 excerpt: "Discussion of the development of American Red Cross's doctrine, procedures, and predictive tools for Advance Operational Planning with emphasis on partnerships with university researchers."
-collection: portfolio
 permalink: /publication/2026-03-02-advance-operational-planning-red-cross
 date: 2026-03-02
 venue: "OR/MS Today"
