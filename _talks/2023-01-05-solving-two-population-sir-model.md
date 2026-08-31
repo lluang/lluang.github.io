@@ -10,4 +10,4 @@ paperurl: "https://www.youtube.com/watch?v=O12vTuCYVzo"
 citation: "Luangkesorn, L. (2023). 'Tech Talk: Solving the two population SIR model to project COVID-19 wave.' <i>ChristianaCare iREACH / Delaware-CTR</i>."
 ---
 
-Technical presentation outlining the derivation and calibration of two-population compartmental SIR models to forecast wave trajectories and hospital burden.
+Technical presentation outlining the derivation and calibration of two-population compartmental SIR models to forecast wave trajectories and hospital burden. Methods were applied over several Pennsylvania metropolitan areas during the OMICRON COVID-19 variant.
