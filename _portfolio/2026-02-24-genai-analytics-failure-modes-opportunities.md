@@ -1,5 +1,5 @@
 ---
-title: "Bridging the Gap: Generative AI in the Analytics Lifecycle"
+title: "Applying generative AI in analytics: failure modes and opportunities"
 excerpt: "Webinar demonstrating how to integrate Generative AI into data science workflows while navigating technical fault lines and common failure modes."
 collection: portfolio
 date: 2026-02-24
