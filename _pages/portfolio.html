@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign posts = site.portfolio | sort: 'date' | reversed %}
-{% for post in posts %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
