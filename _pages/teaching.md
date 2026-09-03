@@ -33,10 +33,10 @@ Over my academic tenure, I have developed and instructed courses across undergra
 ## Guest Lectures & Executive Education
 
 * **Carnegie Mellon University (Tepper School of Business)**
-  * *Topic:* "Where should analysts live: Organizing analytics in the Enterprise" (Executive Education, November 2025)
+  * *Topic:* "Where should analysts live: Organizing analytics in the Enterprise" (Business Analytics: Data-informed Decision Making, Executive Education, Dr. Willem-Jan Van Hoeve, November 2025)
 * **University of Alberta (Alberta School of Business)**
   * *Topic:* "Where should the analysts live: Organizing analytics within the enterprise" (Healthcare Analytics Dr. Saied Samiedaluie, Guest Lecture, May 2026)
 * **Columbia University (IEOR Department)**
   * *Topic:* "Development and deployment of advance operational planning for disaster response for the American Red Cross" (Operations Research for Public Policy Dr. Eric Stratman, Guest Lecture, March 2026)
 * **University of Pittsburgh**
-  * *Topic:* "The development of Advanced Operational Planning for national disaster response at the American Red Cross." Guest lecture in IE 1171 Data for the Public Good, Professor Amin Rahimian, University of Pittsburgh, September 17, 2023.
+  * *Topic:* "The development of Advance Operational Planning for national disaster response at the American Red Cross." Guest lecture in IE 1171 Data for the Public Good, Professor Amin Rahimian, University of Pittsburgh, September 17, 2023.
