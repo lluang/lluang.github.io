@@ -46,13 +46,15 @@ only matches text in the prompt with the references, so will not always check
 that the context of the reference matches the context of the setting of the
 user. These types of issues lead experts to reach very different
 conclusions than people who are new to a domain, and the LLM tend to act
-like novices here. As an exercise to help people identify domains where
+like novices here. 
+
+As an exercise to help people identify domains where
 LLMs do badly, I ask people to pick a topic that they know well, but not
 through textbooks or classwork, and not computer related (this tends to lead to
 topics that they know experiencially or through true research). Most
 people identify a hobby, my manager did this exercise with his master thesis
 topic. Another variation of nuance are details that frequently occur
-together, but are not the same. Since the LLM works by probablistically
+together, but are not the same. Since the LLM works by probablisticly
 choosing words that occur together, it can often try to combine related topics
 or words that should not be. A frequent example of this is in anatomy,
 where LLMs trained on medical texts will often conflate the names of two body
@@ -118,7 +120,6 @@ able to recognize and look for so that they can screen Generative AI
 output for other types of errors. For
 example, my now 11 year old daughter continues to identify errors in Generative
 AI output ranging from trivial to profound, and because she has this ability, I
-have no concerns about her use of Generative AI. Same with my colleagues, once they have
-experienced identifying errors in AI (and this holds for machine learning
+have no concerns about her use of Generative AI. Same with my colleagues, once they have experienced identifying errors in AI (and this holds for machine learning
 models as well), they are able to identify future errors and react
 appropriately, and not taking the outputs of AI as automatically true. And this leads to more productive use of AI.

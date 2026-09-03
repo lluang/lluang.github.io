@@ -11,7 +11,6 @@ tags:
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_lBVkpEMA8BRtLSXvaiePVL-f77oCvFlEEk6kDtX-Tw&s=10)
 
-  
 Why learn theory? We were bringing our daughter back from an arts camp in northern Michigan. As we talked about music, her lessons and teachers, pieces, performances, and ensembles, we also talked about her music practice (music theory and music history) class. And as a musician, while music practice was a welcome and sometimes entertaining break, she asked why we learn theory.
 
 All practical domains have an underlying theory. Theory is how a domain understands its environment and how practitioners and researchers interact with its environment. For example, knowing the fire triangle/tetrahedron enables firefighters approaching a scene to assess how best to control and contain a fire while ensuring the safety of people in the area. Planning looks a capability and capacity and how to employ these to turn strategic and operational goals into resource allocation and actions over time.
