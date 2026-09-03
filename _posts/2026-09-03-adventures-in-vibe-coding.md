@@ -1,6 +1,10 @@
 ---
 title: "Adventures in Vibe Coding a github.io website"
+<<<<<<< HEAD
 date: 2026-09-03
+=======
+date: 2026-07-25
+>>>>>>> 90325067e31df31e028cb9b10100ca092307c5a7
 permalink: /posts/2026/09/adventures-in-vibe-coding/
 tags:
   - "artificial intelligence"
