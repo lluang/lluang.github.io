@@ -24,11 +24,9 @@ Over my academic tenure, I have developed and instructed courses across undergra
   * *Years Taught:* 2012, 2013, 2014, 2015, 2019
 * **IE 0015: Information Systems Engineering**
   * *Years Taught:* 2015, 2016, 2017, 2018
-* **IE 1090: Senior Projects (Capstone Advisor)**
+* **IE 1090: Senior Projects (Capstone Coordinator)**
   * *Years Taught:* 2013, 2016, 2017, 2018, 2019, 2020
   * *Supervised over 100 industry-sponsored BS Industrial Engineering and MHA Health Systems Engineering capstone projects.*
-
----
 
 ## Guest Lectures & Executive Education
 

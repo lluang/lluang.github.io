@@ -13,8 +13,8 @@ Education
 ======
 * Northwestern University Evanston, IL - September 2004 
   - PhD Industrial Engineering and Management Science 
-Dissertation: The Use of Hybrid Produce-to-Order/Produce-to-Stock Systems in Multi-Echelon Supply Chains
-Advisors:  Dr. Seyed Iravani, Dr. David Simchi-Levi
+  - Dissertation: The Use of Hybrid Produce-to-Order/Produce-to-Stock Systems in Multi-Echelon Supply Chains
+  - Advisors:  Dr. Seyed Iravani, Dr. David Simchi-Levi
 * The George Washington University Washington, DC 
   - MA Science, Technology and Public Policy
 * University of Illinois at Urbana-Champaign Urbana, IL 
@@ -25,7 +25,7 @@ Work experience
 ======
 * Highmark Health
     - Lead Data Scientist June 2020-Present
-Applied machine learning, generative AI, mathematical models for projects supporting healthcare clients.  Projects informed efforts for retention, provider relations, and healthcare operations.  Clients include Human Resources, General Counsel, provider relations, and AHN (healthcare providers). Represented Highmark Health through professional society activities. 
+Applied machine learning, generative AI, mathematical models for projects supporting healthcare clients.  Projects informed efforts for retention, provider relations, and healthcare operations.  Clients include Human Resources (People Analytics), General Counsel, provider relations, and AHN (healthcare providers). Represented Highmark Health through professional society activities. 
 
 * University of Pittsburgh – Department of Industrial Engineering
   - Assistant Professor – January 2009 – June 2023
@@ -39,7 +39,7 @@ Skills
 * Programming
   -	Proficient: Python (NumPy-SciPy), R
   -	Familiar:  Julia, Matlab, Java, Clojure, C/C++, Fortran, Visual Basic for Applications, NetLogo, SQL, Apache Spark
-* Tools:  Git, Dataiku, Google Cloud, Simio (Simulation), Arena (Simulation), Eclipse, Linux, MS Office, SQLite
+* Tools:  Git, Dataiku, Google Cloud/Vertex AI/Gemini/BigQuery, Workday
 * Disaster response 
   - National Planner, Advance Operational Planner, Government Liaison, Disaster Assessment
   - Amateur Radio (General), Public Service
@@ -58,10 +58,39 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+## University of Pittsburgh (Department of Industrial Engineering)
+
+### Graduate Courses
+* **IE 2064: Data Science** 
+  * *Years Taught:* 2014, 2015, 2016, 2017, 2018, 2019, 2020
+* **IE 2088: Discrete-event Simulation Modeling and Analysis**
+  * *Years Taught:* 2011, 2013, 2014, 2017, 2018, 2019
+* **IE 2100: Supply Chain Analysis**
+  * *Years Taught:* 2015, 2017, 2018
+* **IE 2073: Design of Experiments**
+  * *Year Taught:* 2010
+
+### Undergraduate & Dual-Level Courses
+* **IE 1086 / 2086: Decision Models**
+  * *Years Taught:* 2012, 2013, 2014, 2015, 2019
+* **IE 0015: Information Systems Engineering**
+  * *Years Taught:* 2015, 2016, 2017, 2018
+* **IE 1090: Senior Projects (Capstone Coordinator)**
+  * *Years Taught:* 2013, 2016, 2017, 2018, 2019, 2020
+  * *Supervised over 100 industry-sponsored BS Industrial Engineering and MHA Health Systems Engineering capstone projects.*
+
+## Guest Lectures & Executive Education
+
+* **Carnegie Mellon University (Tepper School of Business)**
+  * *Topic:* "Where should analysts live: Organizing analytics in the Enterprise" (Business Analytics: Data-informed Decision Making, Executive Education, Dr. Willem-Jan Van Hoeve, November 2025)
+* **University of Alberta (Alberta School of Business)**
+  * *Topic:* "Where should the analysts live: Organizing analytics within the enterprise" (Healthcare Analytics Dr. Saied Samiedaluie, Guest Lecture, May 2026)
+* **Columbia University (IEOR Department)**
+  * *Topic:* "Development and deployment of advance operational planning for disaster response for the American Red Cross" (Operations Research for Public Policy Dr. Eric Stratman, Guest Lecture, March 2026)
+* **University of Pittsburgh**
+  * *Topic:* "The development of Advance Operational Planning for national disaster response at the American Red Cross." Guest lecture in IE 1171 Data for the Public Good, Professor Amin Rahimian, University of Pittsburgh, September 17, 2023.
+
 Service
 ======
 *	Institute for Operations Research and Management Science (INFORMS) 
