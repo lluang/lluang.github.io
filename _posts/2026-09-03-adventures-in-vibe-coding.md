@@ -1,4 +1,14 @@
- I decided to create a github.io [(https://lluang.github.io)](https://www.blogger.com/blog/post/edit/13592469/3159048310915086294#) website using academicpages.github.io framework, because that is what all the cool ML/AI kids seem to do these days.  And it seemed that having a professional web presence there is better than just my blogger site (which is no longer cool. and has lots of non-professional musings).  But it seems like a lot of work.  A rendered site requires lots of data files.  And websites are not my thing.  But working with Generative AI is kinda my thing. So I was going to (1) use generative AI to customize my fork of the academicpages site, (2) create the data files for presentations, publications, and media appearances by pulling it out of the long form of my CV, and (3) vibe code the transfer of my blogger posts into markdown format so it would populate my github.io site.
+---
+title: "Adventures in Vibe Coding a github.io website"
+date: 2026-07-25
+permalink: /posts/2026/09/adventures-in-vibe-coding/
+tags:
+  - "artificial intelligence"
+  - "generative AI"
+  - "programming"
+---
+
+I decided to create a github.io [(https://lluang.github.io)](https://www.blogger.com/blog/post/edit/13592469/3159048310915086294#) website using academicpages.github.io framework, because that is what all the cool ML/AI kids seem to do these days.  And it seemed that having a professional web presence there is better than just my blogger site (which is no longer cool. and has lots of non-professional musings).  But it seems like a lot of work.  A rendered site requires lots of data files.  And websites are not my thing.  But working with Generative AI is kinda my thing. So I was going to (1) use generative AI to customize my fork of the academicpages site, (2) create the data files for presentations, publications, and media appearances by pulling it out of the long form of my CV, and (3) vibe code the transfer of my blogger posts into markdown format so it would populate my github.io site.
 
 Setting up the website and creating markdown with the Jekyll YAML front matter was easy. Gemini identified an issue that was solved by updating the version of python being used to render the site, and guided me through various layout decisions.  Presentations and talks and publications were pulled out of my CV, and Gemini helped guide creating categories and filling in the YAML for the dates and permalinks.  The fun part was going to be converting the blog posts.
 
