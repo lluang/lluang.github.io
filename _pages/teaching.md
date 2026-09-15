@@ -36,5 +36,9 @@ Over my academic tenure, I have developed and instructed courses across undergra
   * *Topic:* "Where should the analysts live: Organizing analytics within the enterprise" (Healthcare Analytics Dr. Saied Samiedaluie, Guest Lecture, May 2026)
 * **Columbia University (IEOR Department)**
   * *Topic:* "Development and deployment of advance operational planning for disaster response for the American Red Cross" (Operations Research for Public Policy Dr. Eric Stratman, Guest Lecture, March 2026)
+* **Chulalongkorn University (College of Public Health Sciences)**
+  * *Topic:* "AI and its implications in public health: The application of Generative AI in public health analytics", lecture, Chulalongkorn University College of Public Health Sciences, January 3, 2025.
+* **Chiang Mai University (Faculty of Science, Department of Mathematics)**
+  * *Topic:* "Uses and limitations of Generative AI in the mathematical sciences", lecture, Chiang Mai University Department of Mathematics, December 24, 2024.
 * **University of Pittsburgh**
   * *Topic:* "The development of Advance Operational Planning for national disaster response at the American Red Cross." Guest lecture in IE 1171 Data for the Public Good, Professor Amin Rahimian, University of Pittsburgh, September 17, 2023.

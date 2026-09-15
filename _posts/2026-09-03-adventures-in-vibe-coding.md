@@ -23,11 +23,11 @@ For the blog posts, I used this chance to practice vibe coding. While in the pas
 
 My prompt was
 
-> write a script that takes posts from https://lugerpitt.blogspot.com and creates a markdown file for use in an academicpages site. Yaml header should include title, date, permalink in the posts folder. File name should start with date of posting to the lugerpitt.blogspot site. put the markdown files in the posts directory
+> write a script that takes posts from https://nnnnnn.blogspot.com and creates a markdown file for use in an academicpages site. Yaml header should include title, date, permalink in the posts folder. File name should start with date of posting to the nnnnnn.blogspot site. put the markdown files in the posts directory
 
 So Antigravity wrote a series of python scripts to explore the blogger site, inspect posts, identify links/media, format the posts, and bring everything together into a final script. 
 
-> I have created and executed the Python script convert_blogger_to_academicpages.py to fetch all posts from https://lugerpitt.blogspot.com and convert them into AcademicPages (Jekyll) Markdown format inside the posts directory.
+> I have created and executed the Python script convert_blogger_to_academicpages.py to fetch all posts from https://nnnnnn.blogspot.com and convert them into AcademicPages (Jekyll) Markdown format inside the posts directory.
 > 
 >   ### Key Script Features & Formatting
 > 
