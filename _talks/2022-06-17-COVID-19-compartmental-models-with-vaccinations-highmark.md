@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 compartmental models with vaccinations and immune evasive variants using insurance data"
 collection: talks
-category: conferences
+category: "conferences"
 permalink: /talks/2022-06-17-COVID-19-compartmental-models-with-vaccinations-highmark
 excerpt: "Internal talk on using compartmental models to provide early identification of new variant case surges."
 date: 2022-06-17
