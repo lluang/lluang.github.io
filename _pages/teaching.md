@@ -40,5 +40,13 @@ Over my academic tenure, I have developed and instructed courses across undergra
   * *Topic:* "AI and its implications in public health: The application of Generative AI in public health analytics", lecture, Chulalongkorn University College of Public Health Sciences, January 3, 2025.
 * **Chiang Mai University (Faculty of Science, Department of Mathematics)**
   * *Topic:* "Uses and limitations of Generative AI in the mathematical sciences", lecture, Chiang Mai University Department of Mathematics, December 24, 2024.
+* **Carnegie Mellon University**
+  * *Topic:* "Information during a disaster: The development of advanced operational planning tools and models". Guest lecture in 94-465 Data Analytics for Decision Making, Professor Barrios, Carnegie Mellon University, Heinz College of Information Systems and Public Policy, April 5, 2024 
 * **University of Pittsburgh**
   * *Topic:* "The development of Advance Operational Planning for national disaster response at the American Red Cross." Guest lecture in IE 1171 Data for the Public Good, Professor Amin Rahimian, University of Pittsburgh, September 17, 2023.
+* **Tianjin University**
+  * *Topic:* "Improving Emergency Department Physician Staffing Using Predictive Models and Simulation", Tianjin University, College of Management and Economics, Department of Industrial Engineering, June 2018. 
+* **Chulalongkorn University**
+  * *Topic:* "Compartmental models for infectious disease control", Chulalongkorn University College of Public Health Sciences, Bangkok, Thailand, February 10, 2017. 
+* **Kasetsart University**
+  * *Topic:* "Workshop on Bayesian MCMC methods and Stan", Kasetsart University, Bangkok, Thailand, December 21, 2016. 
