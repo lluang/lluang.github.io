@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning of Fire Hazard Model Simulations for use in Probabilistic Safety Assessments at Nuclear Power Plants"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2019-03-01-machine-learning-nuclear-safety
 excerpt: "This paper details the application of machine learning algorithms to evaluate fire hazard model simulations, streamlining probabilistic safety assessment protocols at nuclear power generation facilities."
 date: 2019-03-01
