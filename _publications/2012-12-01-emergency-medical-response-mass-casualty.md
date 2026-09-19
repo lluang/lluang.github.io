@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2012-01-01-emergency-medical-response-mass-casualty
 excerpt: "In this work, we built an agent based model of a given urban area to simulate the emergency medical response to a mass casualty incident (MCI) in that area."
-date: 2012-01-01
+date: 2012-12-01
 venue: "Socio-Economic Planning Sciences"
 paperurl: "https://doi.org/10.1016/j.seps.2012.07.002"
 citation: "Wang, Y., Luangkesorn, L., & Shuman, L. (2012). 'Modeling Emergency Medical Response to a Mass Casualty Incident using Agent Based Simulation.' <i>Socio-Economic Planning Sciences</i>, 46(4), pp. 281–290."

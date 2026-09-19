@@ -1,12 +1,12 @@
 ---
 title: "Human Resources Analytics Dashboard for Healthcare Volunteer Retention"
 collection: talks
-category: conferences
+category: "conferences"
 permalink: /talks/2018-12-12-human-resources-analytics-dashboard-for-healthcare-volunteer-retention
-excerpt: "The team presented several visualizations in a dashboard to track volunteer activity, number of active volunteers, new volunteers and volunteers becoming inactive."
+excerpt: "'Our Volunteer Services staff has very little analytical knowledge, and the community partners [Pro Bono Analytics team] were able to break down the information in a way for us to understand,' said Cheronda Rutherford, senior volunteer coordinator at Houston Methodist Hospital."
 date: 2018-12-12
 venue: "Pre Association for Information Systems (AIS) International Conference on Information Systems (Pre-ICIS) Special Interest Group on Decision Support and Analytics (SIGDSA) Symposium"
-citation: "Chung, Rachel, K. L. Luangkesorn, A. Nguyen***, (2018), Human Resources Analytics Dashboard for Healthcare Volunteer Retention, Pre Association for Information Systems (AIS) International Conference on Information Systems (Pre-ICIS) Special Interest Group on Decision Support and Analytics (SIGDSA) Symposium, San Francisco, CA, December 12, 2018. "
+citation: "Chung, Rachel, K. L. Luangkesorn, A. Nguyen, (2018), Human Resources Analytics Dashboard for Healthcare Volunteer Retention, Pre Association for Information Systems (AIS) International Conference on Information Systems (Pre-ICIS) Special Interest Group on Decision Support and Analytics (SIGDSA) Symposium, San Francisco, CA, December 12, 2018."
 ---
 
 The team started the project by examining the data sets, which presented difficulty because the data was in a form that was common in data on staff and abilities but not amenable to analysis. They conducted an exercise in data munging to convert the data into standard forms and then developed a number of visualizations of the volunteers including their geographic distribution, age, employment status, volunteer roles and tenure (length of volunteering).
