@@ -10,3 +10,6 @@ citation: "Luangkesorn, L. (2026). 'Panel: AI in the ORMS Workforce: Threat, Too
 ---
 
 Panel discussion examining whether artificial intelligence serves as a threat, tool, or career accelerator within the operations research and management sciences workforce.
+
+Moderator Panelist
+Warren Hearnes, OptiML AI; Vinod Cheriyan, Stitch Fix; Louis Luangkesorn, Highmark Health; Carlos Zetina, FICO Xpress Optimization; Francisco Zenteno Smith, American Airlines.

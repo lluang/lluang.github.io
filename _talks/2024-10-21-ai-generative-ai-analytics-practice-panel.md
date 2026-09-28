@@ -9,4 +9,6 @@ venue: "INFORMS 2024 Annual Conference, Seattle, WA"
 citation: "Luangkesorn, L. (2024). 'Panel on Artificial Intelligence and Generative AI in Analytics Practice.' <i>INFORMS 2024 Annual Conference</i>, Seattle, WA."
 ---
 
-Panel discussion examining the adoption, integration, and governance of generative AI tools and workflows in enterprise analytics.
+The problem to solve should determine which approach and analytical techniques to follow. There has been tremendous enthusiasm surrounding Generative AI, and many of us, including me, consider  it a transformative technology. Panel discussion examining the adoption, integration, and governance of generative AI tools and workflows in enterprise analytics. Includes both academics and practicioners.
+
+Moderator: Segev Wasserkrug (IBM Research) Panelists:Leonard Boussioux (University of Washington Foster School of Business / Harvard); Jonathan Helm (Indiana University); Louis Luangkesorn (Highmark Health); Patricia Neri (Principal Decision Scientist)

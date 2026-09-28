@@ -1,0 +1,32 @@
+---
+title: Reflections on the INFORMS Analytics+ 2025 conference in Indianapolis, April 2025
+date: 2025-04-10
+permalink: /posts/2025/04/reflections-on-the-INFORMS-Analytics-2025-conference
+tags:
+  - INFORMS
+  - analytics
+  - conferences
+  - operations research
+---
+I just got back from INFORMS Analytics+ in Indianapolis. I was talking with my old college roommate about INFORMS and what the alternatives to the Analytics+ conference would be in the realm of analytics. And the alternatives that come to mind are the other professional societies and vendor conferences. Over the course of the conference many of us were talking about what makes this one different. And the two characteristics are its neutrality (although I call it ecumenicalism) and the fact that this is run by members, who are analysts, and not by marketing.  
+  
+- Neutrality. Those of us on the practice side of INFORMS have reflected that we have to span the entire range of Advanced Analytics (diagnostic, predictive, prescriptive) as the companies that we work for will come to us for any data/math related problem, and they don't care what background we had when we started. Therefore, we use a wide range of methods and tools that may implement those methods. We do not go around with hammers that view everything as nails but we come with an extensive and varied toolkit that we bring to each problem as needed. We can learn what we need, and welcome the vendors who will help in their domains. This is also in contrast to many of the other professional societies, whose focus is on a specific methodological domain and the tools and practices that go with them. In practice, each of us has to bring a full range of methods to our work, either we were taught (such as in our education) or we learned it on our own (especially important when new methods appear, like Gen AI).  
+- Member driven. The talks and the projects they describe are meant to show off the capabilities of the members of INFORMS, not the capabilities of tools or marketing of our companies. So while our vendor or consultant run conferences also spotlight projects in practice, the presentations there are too clean, because they focus on how their capabilities lead to results. In contrast, as the presentations at INFORMS are focused on the capabilities of people applied to practice, they come with an honest accounting of the difficulties and obstacles faced along the way. Because what we do is (data) science, which means that our first hypothesis is almost never correct, and an honest accounting of a project includes the exploration in directions that prove wrong and change the course of our work multiple times. And this is because we are not showcasing our brilliance or how smart we are (if you are the smartest person in the room, you are probably in the wrong room), but our perseverance and creativity in working through difficulty. During her keynote address at INFORMS Analytics+, [Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/) called this group one of the most self-actualized group of people in the world. Because we do hard things, and this attitude is not like any other place I go to in my professional development.
+- Attending the USACycling presentation that was part of winning the Edelman Award for analytics practice. It was about the U.S. Women Olympic cycling team. And in conversations after I used my CrossFit training to explain how athletes have different levels of effort that can be used to sustain, recover, or push on demand.  
+- Being interviewed as part of an INFORMS media campaign.  
+- Including my work with the American Red Cross in the interview  
+- Referencing CrossFit and Streetparking (the source of my home fitness programming) in the interview. Because it is a rule that people who do CrossFit have to take every opportunity to talk about CrossFit.  
+- Talking disaster/emergency response planning and organization with prior service Coast Guard who have done this themselves. Trading war stories. Realizing they also knew the Red Cross VP of Operations (who is also former Coast Guard).  
+- Chatting with the attendees of a fire training conference that was also occurring nearby. One of them was from the Pittsburgh area. Joked about how strange it is to see them at something other than 2 AM at a house fire.  
+- Taking a walk along the White River and looking at the Cherry Blossoms and observing a beaver doing its thing
+- I met my undergraduate roommate. He was here for the Analytics Program Director conference immediately before Analytics+. Unlike me, he had a relatively straighter path undergrad -> grad school -> professor. However, we are both in the same place, the practice of the broad field of analytics.  
+- Talking for hours with my grad school advisor (Analytics+ Executive Forum speaker) and grad school classmate  
+- Meeting random people in the Sunday afternoon before the main conference began  
+- Meeting a military veteran, now a local government property manager, whom I met last year. And learning about the outcomes of a conversation we had last year. Which was part of his journey into just learning about working with data to do his work.  
+- Many conversations about generative AI (which gives me opportunities to talk about my 10 year old daughter's experience with identifying mistakes in generative AI results.)  
+- Meeting a few of business students, then noticing that the group had a habit of with others from their school. Crashing their table at dinner (at the conference).  
+- Being asked if I was a student.  
+- Giving my talk on how analytics is organized and managed in business which was a completely non-technical talk.
+- Meeting a Thai attendee. Who told me that another attendee told him that I (another Thai) was at the conference. He explained he sought me out because it was so rare for him to see other Thai at professional conferences.  
+- Randomly meeting a Northwestern student, then having lunch with her and a couple of Northwestern professors (I went there for grad school) Talking about working in industry, and Northwestern role in preparing students for industry (alongside academic research)  
+- Talking to current students about many aspects of life. Even beyond professional life.
