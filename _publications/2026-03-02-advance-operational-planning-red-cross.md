@@ -7,6 +7,7 @@ permalink: /publication/2026-03-02-advance-operational-planning-red-cross
 date: 2026-03-02
 venue: "OR/MS Today"
 paperurl: "https://pubsonline.informs.org/do/10.1287/orms.2026.01.10"
+citation: "Luangkesorn, L, (2026), 'Improving Response Through Advance Operational Planning and Academic Collaboratio', <i>ORMS Today</i>."
 ---
 
 In this *OR/MS Today* article, Louis Luangkesorn discusses the American Red Cross’s ongoing development of doctrine, procedures, and predictive tools for Advance Operational Planning (AOP), which helps anticipate emergency shelter and material resources before complete disaster data is available. 
