@@ -3,8 +3,7 @@ title: "Where Should the Analysts Live: Organizing Analytics Within the Enterpri
 collection: talks
 category: "Invited talks"
 permalink: /talks/2026-05-25-where-analysts-live-alberta
-excerpt: "This talk focuses on common management structures—centralized, decentralized, and matrix organizations—and how they impact the success of analytics projects. Guest Lecture in Healthcare Analytics, Dr. Saied Samiedaluie, Alberta School of Business."
-of Business, University of Alberta, May 25, 2026"
+excerpt: "This talk focuses on common management structures—centralized, decentralized, and matrix organizations—and how they impact the success of analytics projects. Guest Lecture in Healthcare Analytics, Dr. Saied Samiedaluie, Alberta School of Business, University of Alberta, May 25, 2026"
 date: 2026-05-25
 venue: "Alberta School of Business, University of Alberta"
 citation: "Luangkesorn, L. (2026). 'Where should the analysts live: Organizing analytics within the enterprise.' <i>Guest Lecture in Healthcare Analytics (Dr. Saied Samiedaluie), Alberta School of Business, University of Alberta</i>."

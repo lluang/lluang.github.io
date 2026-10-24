@@ -3,7 +3,7 @@ title: "Fireside Chat: Exploring Generative AI in Healthcare and Emergency Respo
 collection: talks
 category: "Invited talks"
 permalink: /talks/2026-01-27-exploring-generative-ai-cmu
-excerpt: "Fireside chat with Heinz College at CMU Healthcare Analytics and AI Management students."
+excerpt: "Fireside chat with Heinz College at CMU MS Healthcare Analytics and AI Management students."
 date: 2026-01-27
 venue: "Carnegie Mellon University, Heinz College of Information Systems and Public Policy"
 paperurl: "https://www.instagram.com/p/DUJEjr5ETqt"
