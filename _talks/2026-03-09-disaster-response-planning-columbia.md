@@ -3,7 +3,8 @@ title: "Development and Deployment of Advance Operational Planning for Disaster 
 collection: talks
 category: "Invited talks"
 permalink: /talks/2026-03-09-disaster-response-planning-columbia
-excerpt: "Guest lecture on disaster response operational planning in Operations Research for Public Policy at Columbia University IEOR."
+excerpt: "Guest lecture in Operations Research for Public Policy, Dr. Eric Stratman, Columbia University, IEOR department, March 9,
+2026."
 date: 2026-03-09
 venue: "Columbia University, Department of Industrial Engineering and Operations Research (IEOR)"
 citation: "Luangkesorn, L. (2026). 'Development and deployment of advance operational planning for disaster response for the American Red Cross.' <i>Guest lecture in Operations Research for Public Policy (Dr. Eric Stratman), Columbia University IEOR</i>."

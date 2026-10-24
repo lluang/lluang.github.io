@@ -108,6 +108,6 @@ Service
 
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/Louis_Luangkeosrn_CV_2026_July.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/Louis_Luangkeosrn_CV_2026_November.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>
