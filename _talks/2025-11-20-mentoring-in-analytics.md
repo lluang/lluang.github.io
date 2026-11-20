@@ -11,3 +11,6 @@ citation: "Luangkesorn, L. (2025). 'Mentoring in Analytics.' <i>INFORMS-Pittsbur
 ---
 
 Organizer and moderator of panel discussion hosted by the INFORMS-Pittsburgh chapter focusing on effective mentorship and career development in analytics. Panelists were Mohar Dey, Dick's Sporting Goods; Bryan Lane, DATA XD; Matt Nicosia, Zayer; Chris Villi, FedEx Ground; Louis Luangkesorn, Highmark Health (moderator)
+
+
+<img src="/images/pages/informs_pittsburgh_square.jpg" alt="INFORMS-Pittsburgh logo" width="200" style="display: block; margin: auto;">
