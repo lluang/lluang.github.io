@@ -16,3 +16,5 @@ Presented on multiple occasions
 - [INFORMS Webinar on YouTube February 26, 2026](https://www.youtube.com/watch?v=EuYbWP-5lIM)
 - [Workshop at INFORMS Analytics+ April 14, 2026](https://meetings.informs.org/wordpress/analytics2026/analytics-training-workshops/)
 - INFORMS-Pittsburgh seminar February 24, 2026
+
+![INFORMS-Pittsburgh logo](../images/pages/informs_pittsburgh_square.jpg)

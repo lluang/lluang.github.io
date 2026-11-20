@@ -28,3 +28,5 @@ Jeremy Jarrell is a Product Management leader who helps early-stage startups dis
 
 ​Robert Kaminski
 Robert Kaminski brings an unconventional perspective to product and project management, combining a background in behavioral psychology, organizational change, software engineering, and AI. From leading enterprise technology implementations to shaping AI solutions and operating models, he focuses on the common thread across each: people, technology, and turning ambiguity into action.
+
+![INFORMS-Pittsburgh logo](../images/pages/informs_pittsburgh_square.jpg)
